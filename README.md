@@ -13,12 +13,11 @@ You can try the full project here:
 ## 📸 Screenshots
 
 ### **Home Page**
-Shows the mood selector and search bar.
 ![Home Page](images/home.png)
 
-### **Gym Mood Results**
+### **Study Mood Results**
 Displays songs fetched from the API with album covers, preview audio, and Add buttons.
-![Gym Results](images/gym.png)
+![Study Results](images/study.png)
 
 ### **Saved Playlist**
 Shows the user’s saved playlist with Remove buttons and audio previews.
@@ -48,3 +47,4 @@ The simplest way — just visit:
 1. Clone the repo:
    ```bash
    git clone https://github.com/tanmayi19-jpg/playlist-curator-api.git
+ 
